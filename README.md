@@ -34,7 +34,7 @@ yarn start
 
 ## A aplicação
 
-Aqui apreendemos a criar rotas que não atualizam a página toda, importar arquivos, trabalhar com uma api para consumir o back, trabalhar com css criando componetes de personalização.
+Aqui apreendemos a criar rotas que não atualizam a página toda, importar arquivos, trabalhamos com uma api que conso o back-end listando todas as transactions e categorias e realizar o upload de arquivo salvando as novas transações e trabalhar com css para criar componetes de personalização.
 
  ![Peek 04-05-2020 23-42](https://user-images.githubusercontent.com/20192309/81031682-71c71380-8e63-11ea-8184-22f6e61bd20b.gif)
  
